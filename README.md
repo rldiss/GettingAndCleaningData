@@ -4,7 +4,7 @@ from Samsung, the code I created to transform that data, and the resulting tidy
 data set.  Here's what you'll find here:
 
 run_anaysis.R
--------------
+=============
 
 Ths is the R script file which contains all of the processing logic.  It defines
 three functions: load_data(), create_dataset(), and create_and_write_dataset().
@@ -35,6 +35,7 @@ so that there is one value, the average, for each combination of "activity",
 "subject" and "measurement".  This new dataframe is returned.
 
 create_and_write_dataset()
+--------------------------
 
 This function uses create_dataset() to get the data, and then writes it as a
 table to the file "samsung.dat".
