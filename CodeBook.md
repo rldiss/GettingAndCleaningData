@@ -7,8 +7,8 @@ This file documents the data that can be loaded from the file "samsung.dat".
 Synopsis
 --------
 
-# Read the data into R
-df <- read.table("samsung.dat", header=TRUE)
+ # Read the data into R
+ df <- read.table("samsung.dat", header=TRUE)
 
 
 Overview
