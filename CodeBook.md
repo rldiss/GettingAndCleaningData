@@ -40,7 +40,7 @@ integers between 1 and 30.
 
 This is the name of the averaged gyroscopic or accelerometer variable measurement.  The
 source data contains many measurements for each subject and activity.  This transformed
-dataset contains a single, averged measurement for each subject, activity, and measured
+dataset contains a single, averaged measurement for each subject, activity, and measured
 data point.
 
 **value**
